@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_d379fd92-19b5-4de5-bd96-23684f8d3ada>
+            <gradle>
+                <dependencies_directory>./sourcetrail_dependencies/sttest/d379fd92-19b5-4de5-bd96-23684f8d3ada/gradle</dependencies_directory>
+                <project_file_path>build.gradle</project_file_path>
+                <should_index_tests>0</should_index_tests>
+            </gradle>
+            <name>Java Source Group from Gradle</name>
+            <source_extensions>
+                <source_extension>.java</source_extension>
+            </source_extensions>
+            <standard>8</standard>
+            <type>Java Source Group from Gradle</type>
+            <use_jre_system_library>1</use_jre_system_library>
+        </source_group_d379fd92-19b5-4de5-bd96-23684f8d3ada>
+    </source_groups>
+    <version>4</version>
+</config>
